@@ -1,0 +1,9 @@
+<br>
+	<br>
+	<label><b>Enter the Query</b></label> <input type="text" id="queryBoxId"/>
+
+
+if( typeof x === "string"){
+					alert("identifier");
+					$("#demo").text(x + "Is a identifier");
+				}
